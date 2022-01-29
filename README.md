@@ -1,3 +1,3 @@
 ﻿# My-REST-API
 
-Deployed link : [Click this to open](anirudh-rest-api.herokuapp.com)
+Deployed link : [anirudh-rest-api.herokuapp.com](anirudh-rest-api.herokuapp.com)
